@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MineMarket</string>
+    <string name="hello_world">Fizess egyszerűen egy kód beolvasásával SMS küldés helyett! A fizetés megkezdéséhez nyomd meg a "Beolvasás" gombot.</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="history">Előzmények</string>
+    <string name="read">Beolvasás</string>
+
+</resources>

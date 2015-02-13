@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kg4b0r/AndroidStudioProjects/MineMarket/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f38c1fe0ee3d0ef717e7f32131719fccf07fd6c7">
+        <dex dex="/Users/kg4b0r/AndroidStudioProjects/MineMarket/app/build/intermediates/pre-dexed/debug/classes-b460596cf34ad1a09c9ba7e4021d4af59e94d6ce.jar" />
+    </item>
+    <item
+        jar="/Users/kg4b0r/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.0.1/9ebf6cd580d67601fbf88fd007aab4703b19e4c2/core-3.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9ebf6cd580d67601fbf88fd007aab4703b19e4c2">
+        <dex dex="/Users/kg4b0r/AndroidStudioProjects/MineMarket/app/build/intermediates/pre-dexed/debug/core-3.0.1-184a59323789a58e7f0b0aedbab29c7d8a9524e8.jar" />
+    </item>
+    <item
+        jar="/Users/kg4b0r/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/kg4b0r/AndroidStudioProjects/MineMarket/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d1c2f8d48dd1e4fb5b75f4d1285c137ec0cda63f.jar" />
+    </item>
+    <item
+        jar="/Users/kg4b0r/AndroidStudioProjects/MineMarket/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/kg4b0r/AndroidStudioProjects/MineMarket/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0e9faccc8521628ff95b90b8c3c130adf81d7eb0.jar" />
+    </item>
+    <item
+        jar="/Users/kg4b0r/AndroidStudioProjects/MineMarket/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/kg4b0r/AndroidStudioProjects/MineMarket/app/build/intermediates/pre-dexed/debug/classes-7b10c958f6b02b65cdcf1216490a626877f16884.jar" />
+    </item>
+    <item
+        jar="/Users/kg4b0r/AndroidStudioProjects/MineMarket/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-integration/2.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4d7d4290dc3f13bdb95a92b2377d78e66084dfa">
+        <dex dex="/Users/kg4b0r/AndroidStudioProjects/MineMarket/app/build/intermediates/pre-dexed/debug/classes-c37778fe6b4c6e3fc35eaeda27e7fa544952a3cb.jar" />
+    </item>
+    <item
+        jar="/Users/kg4b0r/AndroidStudioProjects/MineMarket/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/kg4b0r/AndroidStudioProjects/MineMarket/app/build/intermediates/pre-dexed/debug/classes-13c409857017d8facd4cc1c2e6372a1de97a3705.jar" />
+    </item>
+    <item
+        jar="/Users/kg4b0r/AndroidStudioProjects/MineMarket/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7eb68150c290a271a716675ebdfd176eac694124">
+        <dex dex="/Users/kg4b0r/AndroidStudioProjects/MineMarket/app/build/intermediates/pre-dexed/debug/classes-86e84071ff0a97e0be6f8abc28834e36650b3142.jar" />
+    </item>
+
+</items>
